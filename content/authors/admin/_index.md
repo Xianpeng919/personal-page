@@ -1,6 +1,7 @@
 ---
 title: Xianpeng Liu
-role: Ph.D. Candidate at ECE department
+role: Ph.D. Candidate
+avatar_filename: wechat-image_20211201152445.jpg
 bio: My research interests include computer vision, deep learning and machine
   learning
 interests:
@@ -24,11 +25,11 @@ organizations:
   - name: North Carolina State University
     url: https://www.ncsu.edu/
   - name: Laboratory for interpretable Visual Modeling, Computing and Learning
-      (iVMCL)
+      (iVMCL), NCSU
     url: https://research.ece.ncsu.edu/ivmcl/
 education:
   courses:
-    - course: PhD in Electrical Engineering
+    - course: Ph.D. in Electrical Engineering
       institution: North Carolina State Univeristy
       year: 2023
 email: xliu59@ncsu.edu
