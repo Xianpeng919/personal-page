@@ -1,49 +1,38 @@
 ---
 title: Xianpeng Liu
-role: a
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Ph.D. Candidate at ECE department
+bio: My research interests include computer vision, deep learning and machine
+  learning
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Object Detection
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=t1Vdm4wAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Xianpeng919
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/xianpeng-liu-1bb109155/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: North Carolina State University
+    url: https://www.ncsu.edu/
+  - name: Laboratory for interpretable Visual Modeling, Computing and Learning
+      (iVMCL)
+    url: https://research.ece.ncsu.edu/ivmcl/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Electrical Engineering
+      institution: North Carolina State Univeristy
+      year: 2023
+email: xliu59@ncsu.edu
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Xianpeng Liu is a Ph.D. candidate at ECE department, North Carolina State University. He is a research assistant at Laboratory for interpretable Visual Modeling, Computing and Learning (iVMCL), advised by Dr. Tianfu Wu. His research interests include 2D and 3D object detection, pose estimation, etc. He is now working on monocular 3D object detection projects.
