@@ -1,7 +1,7 @@
 ---
 title: Xianpeng Liu
 role: Ph.D. Candidate
-avatar_filename: wechat-image_20211201152445.jpg
+avatar_filename: wechat-image_20211201152657.jpg
 bio: My research interests include computer vision, deep learning and machine
   learning
 interests:
