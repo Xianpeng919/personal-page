@@ -2,12 +2,12 @@
 title: Xianpeng Liu
 role: Ph.D. Candidate
 avatar_filename: avatar.jpg
-bio: My research interests include computer vision, deep learning and machine
-  learning
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computer Vision
   - Object Detection
+  - Computer Vision
+  - Deep Learning
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
