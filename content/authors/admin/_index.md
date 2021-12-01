@@ -30,8 +30,14 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Electrical Engineering
-      institution: North Carolina State Univeristy
+      institution: North Carolina State Univeristy, USA
       year: 2023
+    - course: M.S. in Materials Processing Engineering
+      institution: Harbin Institute of Technology, China
+      year: 2018
+    - course: B.Eng. in Welding Science and Technology
+      institution: Harbin Institute of Technology, China
+      year: 2016
 email: xliu59@ncsu.edu
 superuser: true
 highlight_name: true
