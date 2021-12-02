@@ -42,8 +42,6 @@ email: xliu59@ncsu.edu
 superuser: true
 highlight_name: true
 ---
-Xianpeng Liu is a Ph.D. candidate at ECE department, North Carolina State University. He is a research assistant at Laboratory for interpretable Visual Modeling, Computing and Learning (iVMCL), advised by Dr. Tianfu Wu. His research interests include 2D and 3D object detection, pose estimation, etc. He is now working on monocular 3D object detection projects.
+Xianpeng Liu is a Ph.D. candidate at ECE department, North Carolina State University. He is a research assistant at [Laboratory for interpretable Visual Modeling, Computing and Learning (iVMCL)](https://research.ece.ncsu.edu/ivmcl/), advised by [Dr. Tianfu Wu](https://tfwu.github.io/). His research interests include 2D and 3D object detection, pose estimation, etc. He is now working on monocular 3D object detection projects.
 
-
-
-During his leisure time, he likes working out, playing computer games with friends (DOTA2, GenShin Impact, Warcraft3, Starcraft2, etc.), singing and listening to all kinds of music. Specially, he enjoyed 5 unforgettable years as a Bass singer at MUSICA Chamber Choir at Harbin Institute of Technology, China.
+During his leisure time, he likes working out, playing computer games with friends (DOTA2, GenShin Impact, Warcraft3, Starcraft2, etc.), singing and listening to all kinds of music. Specially, he enjoyed 5 unforgettable years as a Bass singer in MUSICA Chamber Choir at Harbin Institute of Technology, China.
