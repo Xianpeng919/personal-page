@@ -7,6 +7,7 @@ interests:
   - Computer Vision
   - Machine Learning
   - Object Detection
+  - Autonomous Driving
 social:
   - icon: envelope
     icon_pack: fas
