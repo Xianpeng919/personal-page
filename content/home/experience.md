@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: iVMCL, NC State University
     company_url: ''
-    company_logo: org-gc
+    company_logo: ncsu-2
     location: Raleigh, NC
     date_start: '2020-01-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Research Assistant
     company: Dr. Wong's Lab, NC State University
     company_url: ''
-    company_logo: org-gc
+    company_logo: ncsu-2
     location: Raleigh, NC
     date_start: '2018-08-15'
     date_end: '2019-12-31'
