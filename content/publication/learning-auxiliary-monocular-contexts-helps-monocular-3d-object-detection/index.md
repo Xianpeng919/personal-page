@@ -23,7 +23,7 @@ abstract: >-
 
   In experiments, the proposed MonoCon is tested in the KITTI monocular 3D object detection benchmark (car, pedestrian and cyclist), outperforming prior arts (including methods that use lidar, depth or multi-frame extra information) in the leaderboard by large margins on car by the time of this submission and obtaining comparable performance on pedestrian and cyclist in terms of accuracy. Thanks to the simple design, the proposed MonoCon obtains the fastest speed with 38.7 fps in comparisons. A high-level (possible) explanation of why the MonoCon performs better is provided based on the Cram`er–Wold theorem in measure theory.
 draft: false
-featured: false
+featured: true
 projects:
   - monocon
 slides: ""
