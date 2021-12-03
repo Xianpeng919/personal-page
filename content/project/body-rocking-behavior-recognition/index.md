@@ -1,5 +1,5 @@
 ---
-title: Body-Rocking Behavior Recognition
+title: Visual Terrain Identification with Uncertainty Quantification
 date: 2019-05-01T18:54:11.794Z
 draft: false
 featured: true
