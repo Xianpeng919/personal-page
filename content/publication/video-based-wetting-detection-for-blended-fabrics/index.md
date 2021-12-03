@@ -29,3 +29,4 @@ image:
   preview_only: false
 date: 2019-11-01T17:35:03.569Z
 ---
+Poster and demos can be found via this [link](https://people.engr.ncsu.edu/cwong9/docs/2019_asilomar_wick_poster.pdf).
