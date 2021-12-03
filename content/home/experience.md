@@ -38,7 +38,8 @@ experience:
     location: Raleigh, NC
     date_start: '2018-08-15'
     date_end: '2019-12-31'
-    description: Worked on multiple machine learning projects including: Crisis tweets collection, auto-labeling (based on Amazon Mechanical Turk) and analysis; Detecting wetting fabrics in videos; DeepFake video forensics.
+    description: Worked on multiple machine learning projects 
+    # including: Crisis tweets collection, auto-labeling (based on Amazon Mechanical Turk) and analysis; Detecting wetting fabrics in videos; DeepFake video forensics.
         
 
 design:
