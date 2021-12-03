@@ -26,7 +26,7 @@ experience:
         * DeepFake video forensics        
 widget_id: Experience
 headless: true
-weight: 26
+weight: 40
 title: Experience
 subtitle: null
 design:
