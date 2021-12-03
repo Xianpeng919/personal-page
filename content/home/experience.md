@@ -29,8 +29,7 @@ experience:
     location: Raleigh, NC
     date_start: '2020-01-01'
     date_end: ''
-    description: |2-
-        Working on 2D and 3D object detection projects.
+    description: Working on 2D and 3D object detection projects.
     
   - title: Research Assistant
     company: Dr. Chau-Wai Wong's Research Group, ECE Department, NC State University
@@ -39,7 +38,7 @@ experience:
     location: Raleigh, NC
     date_start: '2018-08-15'
     date_end: '2019-12-31'
-    description: Worked on multiple machine learning projects including:
+    description: Worked on multiple machine learning projects including: |3-
     
     * Crisis tweets collection, auto-labeling (based on Amazon Mechanical Turk) and analysis
     * Detecting wetting fabrics in videos
