@@ -1,6 +1,6 @@
 ---
 title: DeepFake Video Forensics
-date: 2020-12-31T19:41:47.960Z
+date: 2019-12-01T19:41:47.960Z
 draft: false
 featured: true
 authors: []
