@@ -41,10 +41,6 @@ highlight_name: true
 ---
 Xianpeng Liu is a Ph.D. candidate at ECE department, North Carolina State University. He is a member of [Laboratory for interpretable Visual Modeling, Computing and Learning (iVMCL)](https://research.ece.ncsu.edu/ivmcl/), advised by [Dr. Tianfu Wu](https://tfwu.github.io/). His research interests include Computer Vision, Machine Learning, 2D and 3D Object Detection.
 
-
-
 During his leisure time, he likes working out, watching animes, playing computer games with friends (DOTA2, GenShin Impact, Warcraft3, Starcraft2, etc.), listening to all kinds of music. Specially, he enjoyed 5 unforgettable years as a Bass singer in MUSICA Chamber Choir at Harbin Institute of Technology, China.
 
-
-
-Download my [CV](https://drive.google.com/file/d/1hbw-sHvsqr1NjHiN1X3tHUk9-C5CVYyu/view?usp=sharing)
+Download my [CV](https://xianpeng-liu.com/uploads/CV%20-%20Xianpeng.pdf)
