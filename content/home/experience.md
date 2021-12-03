@@ -30,7 +30,7 @@ experience:
     date_start: '2020-01-01'
     date_end: ''
     description: Working on 2D and 3D object detection projects.
-    
+
   - title: Research Assistant
     company: Dr. Wong's Lab, NC State University
     company_url: ''
