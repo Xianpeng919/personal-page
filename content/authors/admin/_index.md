@@ -4,10 +4,9 @@ role: Ph.D. Candidate
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Object Detection
   - Computer Vision
-  - Deep Learning
   - Machine Learning
+  - Object Detection
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,18 +26,24 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Electrical Engineering
-      institution: North Carolina State Univeristy, USA
-      year: 2023
+      institution: North Carolina State Univeristy
+      year: ""
     - course: M.S. in Materials Processing Engineering
-      institution: Harbin Institute of Technology, China
+      institution: Harbin Institute of Technology
       year: 2018
     - course: B.Eng. in Welding Science and Technology
-      institution: Harbin Institute of Technology, China
+      institution: Harbin Institute of Technology
       year: 2016
 email: xliu59@ncsu.edu
 superuser: true
 highlight_name: true
 ---
-Xianpeng Liu is a Ph.D. candidate at ECE department, North Carolina State University. He is a research assistant at [Laboratory for interpretable Visual Modeling, Computing and Learning (iVMCL)](https://research.ece.ncsu.edu/ivmcl/), advised by [Dr. Tianfu Wu](https://tfwu.github.io/). His research interests include 2D and 3D object detection, human pose estimation, etc. He is now working on monocular 3D object detection projects.
+Xianpeng Liu is a Ph.D. candidate at ECE department, North Carolina State University. He is a member of [Laboratory for interpretable Visual Modeling, Computing and Learning (iVMCL)](https://research.ece.ncsu.edu/ivmcl/), advised by [Dr. Tianfu Wu](https://tfwu.github.io/). His research interests include Computer Vision, Machine Learning, 2D and 3D Object Detection.
 
-During his leisure time, he likes working out, watching animes, playing computer games with friends (DOTA2, GenShin Impact, Warcraft3, Starcraft2, etc.), singing and listening to all kinds of music. Specially, he enjoyed 5 unforgettable years as a Bass singer in MUSICA Chamber Choir at Harbin Institute of Technology, China.
+
+
+During his leisure time, he likes working out, watching animes, playing computer games with friends (DOTA2, GenShin Impact, Warcraft3, Starcraft2, etc.), listening to all kinds of music. Specially, he enjoyed 5 unforgettable years as a Bass singer in MUSICA Chamber Choir at Harbin Institute of Technology, China.
+
+
+
+Download my [CV](https://drive.google.com/file/d/1hbw-sHvsqr1NjHiN1X3tHUk9-C5CVYyu/view?usp=sharing)
