@@ -2,6 +2,7 @@
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
+widget_id: contact-email
 
 # This file represents a page section.
 headless: true
@@ -10,7 +11,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: null
 
 content:
   # Automatically link email and phone or display as text?
