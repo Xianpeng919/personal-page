@@ -1,8 +1,12 @@
 ---
-title: DeepFake video forensics
+title: DeepFake Video Forensics
 date: 2020-12-31T19:41:47.960Z
 draft: false
-featured: false
+featured: true
+authors: []
+tags: []
+categories:
+  - Deep Learning
 image:
   filename: featured.png
   focal_point: Smart
