@@ -43,7 +43,7 @@ experience:
         Worked on multiple machine learning projects including:
       
         * Crisis tweets collection, auto-labeling and analysis
-    Worked on multiple machine learning projects 
+    # Worked on multiple machine learning projects 
     # including: Crisis tweets collection, auto-labeling (based on Amazon Mechanical Turk) and analysis; Detecting wetting fabrics in videos; DeepFake video forensics.
         
 
