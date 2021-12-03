@@ -32,7 +32,7 @@ experience:
     description: Working on 2D and 3D object detection projects.
     
   - title: Research Assistant
-   company: Dr. Chau-Wai Wong's Research Group, ECE Department, NC State University
+    company: Dr. Wong's Lab, NC State University
     company_url: ''
     company_logo: org-gc
     location: Raleigh, NC
