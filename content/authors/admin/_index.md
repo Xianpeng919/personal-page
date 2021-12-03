@@ -1,13 +1,13 @@
 ---
 title: Xianpeng Liu
-role: Ph.D. Candidate
+role: Ph.D. Candidate in Electrical Engineering
 avatar_filename: avatar.jpg
-bio: ""
+bio: "Research interests: Computer Vision, Machine Learning, Object Detection in
+  Autonomous Driving"
 interests:
   - Computer Vision
   - Machine Learning
-  - Object Detection
-  - Autonomous Driving
+  - Object Detection in Autonomous Driving
 social:
   - icon: envelope
     icon_pack: fas
