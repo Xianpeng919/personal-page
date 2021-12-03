@@ -31,20 +31,20 @@ experience:
     date_end: ''
     description: Working on 2D and 3D object detection projects.
     
-  - title: Research Assistant
-    company: Dr. Chau-Wai Wong's Research Group, ECE Department, NC State University
-    company_url: ''
-    company_logo: org-gc
-    location: Raleigh, NC
-    date_start: '2018-08-15'
-    date_end: '2019-12-31'
-    description: |4-
+  #- title: Research Assistant
+  #  company: Dr. Chau-Wai Wong's Research Group, ECE Department, NC State University
+  #  company_url: ''
+  #  company_logo: org-gc
+  #  location: Raleigh, NC
+  #  date_start: '2018-08-15'
+  #  date_end: '2019-12-31'
+  #  description: |4-
     
-    Worked on multiple machine learning projects including: 
+  #  Worked on multiple machine learning projects including: 
     
-    * Crisis tweets collection, auto-labeling (based on Amazon Mechanical Turk) and analysis
-    * Detecting wetting fabrics in videos
-    * DeepFake video forensics
+  #  * Crisis tweets collection, auto-labeling (based on Amazon Mechanical Turk) and analysis
+  #  * Detecting wetting fabrics in videos
+  #  * DeepFake video forensics
         
 
 design:
