@@ -26,7 +26,7 @@ organizations:
     url: https://www.ncsu.edu/
 education:
   courses:
-    - course: Ph.D. in Electrical Engineering
+    - course: Ph.D. in Electrical Engineering (in progress)
       institution: North Carolina State Univeristy
       year: ""
     - course: M.S. in Materials Processing Engineering
