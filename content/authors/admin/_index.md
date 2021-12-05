@@ -41,4 +41,4 @@ highlight_name: true
 ---
 Xianpeng Liu is a Ph.D. candidate at ECE department, North Carolina State University. He is a member of [Laboratory for interpretable Visual Modeling, Computing and Learning (iVMCL)](https://research.ece.ncsu.edu/ivmcl/), advised by [Dr. Tianfu Wu](https://tfwu.github.io/). His research interests include Computer Vision, Machine Learning, 2D and 3D Object Detection.
 
-Download my [CV](https://xianpeng-liu.com/uploads/CV%20-%20Xianpeng.pdf)
+{{< icon name="download" pack="fas" >}} Download my [CV](https://xianpeng-liu.com/uploads/CV%20-%20Xianpeng.pdf)
