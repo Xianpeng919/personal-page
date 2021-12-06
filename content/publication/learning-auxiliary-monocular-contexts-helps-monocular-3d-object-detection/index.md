@@ -6,7 +6,8 @@ authors:
   - admin
   - Nan Xue
   - Tianfu Wu
-publication: "36th AAAI Conference on Artificial Intelligence (acceptance rate: 15%)"
+publication: "36th AAAI Conference on Artificial Intelligence (acceptance rate:
+  1349/9020, 15%)"
 publication_short: "AAAI 2022 (acceptance rate: 1349/9020, 15%)"
 abstract: >-
   Monocular 3D object detection that aims to localize 3D bounding boxes in an
