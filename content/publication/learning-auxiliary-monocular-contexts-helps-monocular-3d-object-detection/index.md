@@ -9,19 +9,21 @@ authors:
 publication: "36th AAAI Conference on Artificial Intelligence (acceptance rate: 15%)"
 publication_short: "AAAI 2022 (acceptance rate: 15%)"
 abstract: >-
-  Monocular 3D object detection that aims to localize 3D bounding boxes in an
-  input single 2D image is a highly challenging problem and remains open,
+  Monocular 3D object detection aims to localize 3D bounding boxes in an input
+  single 2D image. It is a highly challenging problem and remains open,
   especially when no extra information (e.g., depth, lidar and/or multi-frames)
-  can be leveraged. 
+  can be leveraged in training and/or inference.
 
 
-  This paper proposes a simple yet effective formulation for monocular 3D object detection without exploiting any extra information. It presents the MonoCon method which learns auxiliary Monocular Contexts, as auxiliary tasks in training, to help monocular 3D object detection. 
+  This paper proposes a simple yet effective formulation for monocular 3D object detection without exploiting any extra information. It presents the MonoCon method which learns Monocular Contexts, as auxiliary tasks in training, to help monocular 3D object detection. 
 
 
-  The key idea is that with the annotated 3D bounding boxes of objects in an image, there are rich well-posed projected 2D supervision signals available in training, such as the projected corner keypoints and their associated offset vectors with respect to the center of 2D bounding box. They should be exploited in training. Thus, the proposed MonoCon method treats those 2D contexts as auxiliary tasks in training. In implementation, it utilizes a very simple end-to-end design to justify the effectiveness of learning more monocular contexts, which consists of three components: a Deep Neural Network(DNN) based feature backbone, a number of regression head branches for learning the essential parameters used in the 3D bounding box prediction, and a number of regression head branches for learning auxiliary contexts. After training, the auxiliary context regression branches are discarded. 
+  The key idea is that with the annotated 3D bounding boxes of objects in an image, there is a rich set of well-posed projected 2D supervision signals available in training, such as the projected corner keypoints and their associated offset vectors with respect to the center of 2D bounding box, which should be exploited as auxiliary tasks in training.
 
 
-  In experiments, the proposed MonoCon is tested in the KITTI monocular 3D object detection benchmark (car, pedestrian and cyclist), outperforming prior arts (including methods that use lidar, depth or multi-frame extra information) in the leaderboard by large margins on car by the time of this submission and obtaining comparable performance on pedestrian and cyclist in terms of accuracy. Thanks to the simple design, the proposed MonoCon obtains the fastest speed with 38.7 fps in comparisons. A high-level (possible) explanation of why the MonoCon performs better is provided based on the Cram`er–Wold theorem in measure theory.
+  The proposed MonoCon is motivated by the Cramer–Wold theorem in measure theory at a high level.  
+
+  In implementation, it utilizes a very simple end-to-end design to justify the effectiveness of learning auxiliary monocular contexts, which  consists of three components: a Deep Neural Network (DNN) based feature backbone, a number of regression head branches for learning the essential parameters used in the 3D bounding box prediction, and a number of regression head branches for learning auxiliary contexts. After training, the auxiliary context regression branches are discarded for better inference efficiency. In experiments, the proposed MonoCon is tested in the KITTI benchmark (car, pedestrian and cyclist). It outperforms all prior arts in the leaderboard on the car category and obtains comparable performance on pedestrian and cyclist in terms of accuracy. Thanks to the simple design, the proposed MonoCon method obtains the fastest inference speed with 38.7 fps in comparisons.
 draft: false
 featured: true
 projects:
